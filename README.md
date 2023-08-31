@@ -13,19 +13,19 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="cours"></a> cours math première s
+## <a name="cours"></a> cours enseignement scientifique math Terminale
 * ### []()
 * ### []()
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="resume"></a> résumé de cours math première S
+## <a name="resume"></a> résumé enseignement scientifique math Terminale
 * ### []()
 * ### []()
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="devoir"></a> devoir math première S
+## <a name="devoir"></a> devoir enseignement scientifique math Terminale
 * ### [devoir 1]()
 * ### [devoir 2]()
 
