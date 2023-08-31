@@ -1,6 +1,5 @@
-# :santa: Première S
+# :santa: Enseignement Scientifique Terminale Math
 
-[Magic Problem Solver Algorithm](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
