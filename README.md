@@ -1,5 +1,5 @@
 # :santa: Enseignement Scientifique Terminale Math
-
+initiation à la démarche scientifique
 ---------------------------------------------------------------------------------------------------------------------------
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
