@@ -14,7 +14,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours enseignement scientifique math Terminale
-* ### [chapitre 1 : probabilités](https://github.com/Math13Net/ES_Math/blob/main/01_ES_Tle.pdf)
+* ### [chapitre 1 : révision]()
 * ### []()
 
 
