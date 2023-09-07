@@ -14,7 +14,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours enseignement scientifique math Terminale
-* ### [chapitre 1 : révision]()
+* ### [chapitre 1 : révision](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_1.pdf)
 * ### []()
 
 
