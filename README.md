@@ -4,8 +4,7 @@ initiation à la démarche scientifique
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
 ## 🌈 [cours](#cours)
-## 🔥 [fiche, résumé](#resume)
-## :gift_heart: [qcm en ligne type e3c corrigés](#e3c)
+## 🔥 [corrigé des ex du cours](#corrige)
 ## 👋 [devoir](#devoir)
 ## 📜 [divers](#divers)
 ## 🌐 [try this](https://undergroundmathematics.org/)
@@ -19,7 +18,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="resume"></a> résumé enseignement scientifique math Terminale
+## <a name="corrige"></a> corrigé des exercies du cours Terminale Enseignement Scientifique
 * ### []()
 * ### []()
 
