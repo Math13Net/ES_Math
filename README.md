@@ -19,7 +19,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="corrige"></a> corrigé des exercies du cours Terminale Enseignement Scientifique
-* ### []()
+* ### [chapitre 1 : corrigé](https://github.com/Math13Net/ES_Math/blob/main/chapitre_1_corrige.pdf)
 * ### []()
 
 
