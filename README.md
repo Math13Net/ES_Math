@@ -26,7 +26,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [chapitre 1 : corrigé des ex du cours - partie 1](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_1.pdf)
 * ### [chapitre 1 : corrigé des ex du cours - partie 2](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_2.pdf)
 * ### [chapitre 1 : corrigé des ex du cours - partie 3](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_3.pdf)
-
+* ### [chapitre 2 : corrigé des ex du cours](https://github.com/Math13Net/ES_Math/blob/main/ES_cours2_ex_corrige.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoir enseignement scientifique math Terminale
