@@ -20,6 +20,11 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * #### [chapitre 3 : fonctions - partie 2](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%202%20-%20Mod%C3%A8les%20d%C3%A9mographiques%20Activit%C3%A9s%20-%20ens%20sc.pdf)
 * #### [chapitre 3 : fonctions - partie 3](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%203%20-%20Suites%20cours%20-%20ens%20sc.pdf)
 * #### [chapitre 3 : fonctions - partie 4](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%204%20-%20Droite%20d'ajustement%20-%20ens%20sc.pdf)
+* ### [chapitre 4 : divers thèmes]()
+* #### [chapitre 4 : cours](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_4.pdf)
+* #### [chapitre 4 : ex - capacité stockage](https://github.com/Math13Net/ES_Math/blob/main/ex_4_stock.pdf)
+* #### [chapitre 4 : ex - IA ](https://github.com/Math13Net/ES_Math/blob/main/ex_4_IA.pdf)
+* #### [chapitre 4 : ex - stat baysienne](https://github.com/Math13Net/ES_Math/blob/main/ex_4_stat_bays.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="corrige"></a> corrigé des exercies du cours Terminale Enseignement Scientifique
