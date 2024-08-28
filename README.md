@@ -6,7 +6,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 ## 🌈 [cours](#cours)
 ## 🔥 [corrigé des ex du cours](#corrige)
 ## 👋 [devoir](#devoir)
-## 📜 [divers](#divers)
+## 📜 [ressources complémentaires](#ressource)
 ## 🌐 [try this](https://undergroundmathematics.org/)
 ## 😍 [fun et culture](#fun)
 
@@ -37,6 +37,16 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 ## <a name="devoir"></a> devoir enseignement scientifique math Terminale
 * ### [devoir 1]()
 * ### [devoir 2]()
+
+-----------------------------------------------------------------------------------------------------------------------------
+## <a name="ressource"></a> ressources complémentaires pour l'enseignement scientifique math Terminale
+* ### [eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt)
+* ### []()
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="fun"></a> un peu de fun et de culture !
