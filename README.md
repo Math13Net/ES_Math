@@ -3,7 +3,7 @@ initiation à la démarche scientifique
 ---------------------------------------------------------------------------------------------------------------------------
 
 Voici qq fichiers pour des éléments de cours de la classe de première spécialité math :
-## 🌈 [cours](#cours)
+## 🌈 [cours](#cours) - [planning annuel 2024/2025](https://github.com/Math13Net/ES_Math/blob/main/Emploi%20du%20temps%20ES%20T02%202024-25%20V2.pdf)
 ## 🔥 [corrigé des ex du cours](#corrige)
 ## 👋 [devoir](#devoir)
 ## 📜 [ressources complémentaires](#ressource)
