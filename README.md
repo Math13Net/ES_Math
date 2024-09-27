@@ -14,7 +14,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours Enseignement Scientifique math Terminale
 * ### [chapitre 1 : révision](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_1.pdf)
-* ### [chapitre 2 : probabilités](https://github.com/Math13Net/ES_Math/blob/main/ES_cours2_ex_sujet.pdf)
+* ### [chapitre 2 : probabilités](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_2.pdf)
 * ### [chapitre 3 : fonctions]()
 * #### [chapitre 3 : fonctions - partie 1](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%201%20-%20Trac%C3%A9%20de%20fonction%20ens%20sc.pdf)
 * #### [chapitre 3 : fonctions - partie 2](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%202%20-%20Mod%C3%A8les%20d%C3%A9mographiques%20Activit%C3%A9s%20-%20ens%20sc.pdf)
@@ -31,7 +31,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [chapitre 1 : corrigé des ex du cours - partie 1](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_1.pdf)
 * ### [chapitre 1 : corrigé des ex du cours - partie 2](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_2.pdf)
 * ### [chapitre 1 : corrigé des ex du cours - partie 3](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_3.pdf)
-* ### [chapitre 2 : corrigé des ex du cours](https://github.com/Math13Net/ES_Math/blob/main/ES_cours2_ex_corrige.pdf)
+* ### [chapitre 2 : corrigé des ex du cours](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_2_corr.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoir enseignement scientifique math Terminale
