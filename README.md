@@ -21,10 +21,10 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * #### [chapitre 3 : ex - capacité stockage](https://github.com/Math13Net/ES_Math/blob/main/ES_ex_3b.pdf)
 * #### [chapitre 3 : ex - IB ](https://github.com/Math13Net/ES_Math/blob/main/ES_ex_3c.pdf)
 * ### [chapitre 4 : fonctions]()
-* #### [chapitre 4 : fonctions - partie 1](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%201%20-%20Trac%C3%A9%20de%20fonction%20ens%20sc.pdf)
-* #### [chapitre 4 : fonctions - partie 2](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%202%20-%20Mod%C3%A8les%20d%C3%A9mographiques%20Activit%C3%A9s%20-%20ens%20sc.pdf)
-* #### [chapitre 4 : fonctions - partie 3](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%203%20-%20Suites%20cours%20-%20ens%20sc.pdf)
-* #### [chapitre 4 : fonctions - partie 4](https://github.com/Math13Net/ES_Math/blob/main/fonction%20-%204%20-%20Droite%20d'ajustement%20-%20ens%20sc.pdf)
+* #### [chapitre 4 : fonctions - partie 1](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_1.pdf)
+* #### [chapitre 4 : fonctions - partie 2](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_2.pdf)
+* #### [chapitre 4 : fonctions - partie 3](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_3.pdf)
+* #### [chapitre 4 : fonctions - partie 4](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_4.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
