@@ -25,6 +25,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * #### [chapitre 4 : fonctions - partie 2](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_2.pdf)
 * #### [chapitre 4 : fonctions - partie 3](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_3.pdf)
 * #### [chapitre 4 : fonctions - partie 4](https://github.com/Math13Net/ES_Math/blob/main/cours%204%20_4.pdf)
+* #### [chapitre 5 : approfondissement 1 : biodiversité et son évolution](https://lionelponton.fr/ES/Theme_1_3.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -33,7 +34,9 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [chapitre 1 : corrigé des ex du cours - partie 2](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_2.pdf)
 * ### [chapitre 1 : corrigé des ex du cours - partie 3](https://github.com/Math13Net/ES_Math/blob/main/cours_1_corrige_3.pdf)
 * ### [chapitre 2 : corrigé des ex du cours](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_2_corr.pdf)
-
+* ### [chapitre 5 : méthode CRM](https://lionelponton.fr/ES/Exercices_CMR.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_CMR_corriges.pdf)
+* ### [chapitre 5 : méthode intervalle de confiance](https://lionelponton.fr/ES/Exercices_intervalle_de_confiance.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_intervalle_de_confiance_corriges.pdf)
+* ### [chapitre 5 : méthode Hardy-Weinberg](https://lionelponton.fr/ES/Exercices_intervalle_de_confiance_corriges.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_HW_correction.pdf)
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoir enseignement scientifique math Terminale
 * ### [devoir 1]()
