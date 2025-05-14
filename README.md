@@ -36,7 +36,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première spécia
 * ### [chapitre 2 : corrigé des ex du cours](https://github.com/Math13Net/ES_Math/blob/main/ES_cours_2_corr.pdf)
 * ### [chapitre 5 : méthode CRM](https://lionelponton.fr/ES/Exercices_CMR.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_CMR_corriges.pdf)
 * ### [chapitre 5 : méthode intervalle de confiance](https://lionelponton.fr/ES/Exercices_intervalle_de_confiance.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_intervalle_de_confiance_corriges.pdf)
-* ### [chapitre 5 : méthode Hardy-Weinberg](https://lionelponton.fr/ES/Exercices_intervalle_de_confiance_corriges.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_HW_correction.pdf)
+* ### [chapitre 5 : méthode Hardy-Weinberg](https://lionelponton.fr/ES/Exercices_HW.pdf) - [corrigé](https://lionelponton.fr/ES/Exercices_HW_correction.pdf)
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoir enseignement scientifique math Terminale
 * ### [devoir 1]()
